@@ -9,5 +9,4 @@ def yts():
     for link in soup.findall('a', {'class': 'item-name'}):
         href = link.get('href')
         print(href)
-
 yts()
