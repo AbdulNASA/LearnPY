@@ -1,7 +1,7 @@
 
 import tuna
 tuna.fish()
-name = ['snack','meet','drink']
+#name = ['snack','meet','drink']
 cc = 200
 def appropriateage(manage):
    age = manage / 2 + 7
