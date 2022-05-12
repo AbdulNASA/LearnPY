@@ -1,6 +1,6 @@
 
-#import tuna
-#tuna.fish()
+import tuna
+tuna.fish()
 
 #name = ['snack','meet','drink']
 #cc = 200
