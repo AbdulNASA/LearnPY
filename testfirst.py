@@ -8,7 +8,7 @@ def appropriateage(manage):
    return age
 for n in range (18,80):
     x = appropriateage(n)
-    print("The appropraite age for ", n, "is", x)
+    print("The appropraite age for a man in", n, "is", x)
 
 
 
